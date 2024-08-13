@@ -1,0 +1,35 @@
+
+body{
+    background-color: #622b86;
+
+}
+.home{
+    background-color: #622b86;
+    height: 100vh;
+    background-image: url(../imgs/Layer\ 1\ copy.png);
+    background-size: 36%;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+.home .cards .container .card{
+    background-color:#fffdfe ;
+    color: #622b86;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+.home .cards .container .card a{
+    color: #622b86;
+    text-decoration: none;
+}
+.home .cards .container .card:hover{
+    background-color: #622b86;
+    color: #fffdfe;
+    cursor: pointer;
+
+}
+.home .cards .container .card:hover a{
+    color: #fffdfe;
+    text-decoration: none;
+}

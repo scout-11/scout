@@ -1,0 +1,17 @@
+.home{
+    background-color: #622b86;
+    height: 100vh;
+    background-image: url(../imgs/Layer\ 2.png);
+    background-size: 36%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.home .cards .container .card a{
+    color: #fff;
+    font-size: larger;
+    text-decoration: none;
+    background-color: rgb(255, 255, 255);
+    color: #000000;
+    border-radius: 3px;
+
+}
